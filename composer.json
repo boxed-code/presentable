@@ -1,0 +1,19 @@
+{
+    "name": "boxed-code/presentable",
+    "description": "Another eloquent presenter package.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oliver Green",
+            "email": "oliver@boxedcode.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BoxedCode\\Presentable\\": "src/"
+        }
+    }
+}
